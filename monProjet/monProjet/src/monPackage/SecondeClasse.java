@@ -1,4 +1,4 @@
-package monProjet;
+package monPackage;
 
 public class SecondeClasse {
 	static void main(String args) {

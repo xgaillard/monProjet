@@ -1,4 +1,4 @@
-package monProjet;
+package monPackage;
 
 public class MaClasse {
 
